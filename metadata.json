@@ -1,0 +1,5 @@
+{
+  "name": "Operations Metrics Dashboard",
+  "description": "A comprehensive dashboard for tracking daily operations metrics including leads inflow, caller activity, and delivery outcomes.",
+  "requestFramePermissions": []
+}
